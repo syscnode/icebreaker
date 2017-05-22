@@ -107,7 +107,10 @@ def smile_response(response_list, email_list, answer_list):
     
     store_data(response_list, email_list, answer_list)
     
-#call
-response, email, answers = get_data()
-smile_response(response, email, answers)
-
+def run():
+    while True:
+        response, email, answers = get_data()
+        smile_response(response, email, answers)
+        print("HELP......HELP.......HELP \n\n\n\n\n\n\n")
+        a = raw_input()
+        

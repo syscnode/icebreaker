@@ -1,0 +1,8 @@
+(lp0
+S"I struggle with procrastination. Over and over again I've watched opportunities pass away because of my inability to work on a project when I want to. I feel like a slave because I don't have the freedom to do what I want with my life. No matter how many times I try to change my behaviour; I find myself putting off work for days, weeks, sometimes years things I need to do. Instead of doing whatever task is at hand, I'll find myself oversleeping, or watching Netflix. It's not even interesting. Do you have any experience with this? What works for you?"
+p1
+a.(lp0
+S'kramer102@gmail.com'
+p1
+a.(lp0
+.
